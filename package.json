@@ -21,7 +21,7 @@
   "homepage": "https://github.com/yubinbango/yubinbango-core",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-angular-protractor": "^0.1.1",
+    "gulp-angular-protractor": "^0.2.0",
     "gulp-exit": "0.0.2",
     "gulp-webserver": "^0.9.1",
     "run-sequence": "^1.2.1",
